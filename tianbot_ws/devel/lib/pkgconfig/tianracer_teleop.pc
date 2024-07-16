@@ -1,8 +1,0 @@
-prefix=/home/syt/tianbot_ws/devel
-
-Name: tianracer_teleop
-Description: Description of tianracer_teleop
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

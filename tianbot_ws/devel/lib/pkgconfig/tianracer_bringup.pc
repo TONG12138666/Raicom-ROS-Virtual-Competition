@@ -1,8 +1,0 @@
-prefix=/home/syt/tianbot_ws/devel
-
-Name: tianracer_bringup
-Description: Description of tianracer_bringup
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

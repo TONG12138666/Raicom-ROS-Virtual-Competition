@@ -1,8 +1,0 @@
-prefix=/home/syt/tianbot_ws/devel
-
-Name: tianracer_slam
-Description: Description of tianracer_slam
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

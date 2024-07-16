@@ -1,8 +1,0 @@
-prefix=/home/syt/tianbot_ws/devel
-
-Name: tianracer_jetson
-Description: Description of tianracer_jetson
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

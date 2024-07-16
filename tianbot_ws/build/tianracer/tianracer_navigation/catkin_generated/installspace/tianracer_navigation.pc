@@ -1,8 +1,0 @@
-prefix=/home/syt/tianbot_ws/install
-
-Name: tianracer_navigation
-Description: Description of tianracer_navigation
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: visualization_msgs

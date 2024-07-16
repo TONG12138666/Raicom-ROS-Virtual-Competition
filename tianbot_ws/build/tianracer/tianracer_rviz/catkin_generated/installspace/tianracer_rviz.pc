@@ -1,8 +1,0 @@
-prefix=/home/syt/tianbot_ws/install
-
-Name: tianracer_rviz
-Description: Description of tianracer_rviz
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
