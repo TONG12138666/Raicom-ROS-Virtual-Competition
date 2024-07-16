@@ -1,0 +1,7 @@
+set(tianracer_gps_SETUP_PY_SETUP_MODULE "distutils.core")
+set(tianracer_gps_SETUP_PY_VERSION "0.5.0")
+set(tianracer_gps_SETUP_PY_SCRIPTS "")
+set(tianracer_gps_SETUP_PY_PACKAGES "libnmea_navsat_driver")
+set(tianracer_gps_SETUP_PY_PACKAGE_DIRS "src/libnmea_navsat_driver")
+set(tianracer_gps_SETUP_PY_MODULES "")
+set(tianracer_gps_SETUP_PY_MODULE_DIRS "")

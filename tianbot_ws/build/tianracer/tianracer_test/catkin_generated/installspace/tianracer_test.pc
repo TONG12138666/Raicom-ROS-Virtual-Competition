@@ -1,0 +1,8 @@
+prefix=/home/syt/tianbot_ws/install
+
+Name: tianracer_test
+Description: Description of tianracer_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
