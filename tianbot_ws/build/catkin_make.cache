@@ -1,0 +1,2 @@
+tianracer/tianracer:tianracer/tianracer_bringup:tianracer/tianracer_competition:tianracer/tianracer_core:tianracer/tianracer_description:tianracer/tianracer_gazebo:tianracer/tianracer_gps:tianracer/tianracer_jetson:tianracer/tianracer_navigation:tianracer/tianracer_rviz:tianracer/tianracer_slam:tianracer/tianracer_teleop:tianracer/tianracer_test
+-DCATKIN_DEVEL_PREFIX=/home/syt/tianbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/syt/tianbot_ws/install -G Unix Makefiles
